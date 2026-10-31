@@ -1,0 +1,92 @@
+[
+    {
+        "text": "Która kolekcja w Pythonie NIE pozwala na duplikaty?",
+        "options": [
+            "A) Lista",
+            "B) Słownik",
+            "C) Zbiór",
+            "D) Krotka"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "text": "Który symbol oznacza dekorator w języku Python?",
+        "options": [
+            "A) #",
+            "B) @",
+            "C) $",
+            "D) &"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "text": "Jaka metoda służy do dodania elementu na koniec listy?",
+        "options": [
+            "A) add()",
+            "B) insert()",
+            "C) push()",
+            "D) append()"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "text": "Słowo kluczowe 'yield' jest używane w konstrukcji:",
+        "options": [
+            "A) Dekoratorów",
+            "B) Generatorów",
+            "C) Wyjątków",
+            "D) Klas"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "text": "Jakiego koloru jest Shrek?",
+        "options": [
+            "A) Żółty",
+            "B) Czarny",
+            "C) Fioletowy",
+            "D) Zielony"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "text": "Jak nazywa się kowboj z filmu Toy Story?",
+        "options": [
+            "A) Buzz",
+            "B) Woody",
+            "C) Rex",
+            "D) Andy"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "text": "Kto mieszkał w ananasie pod morzem?",
+        "options": [
+            "A) Patryk",
+            "B) Skalmar",
+            "C) SpongeBob",
+            "D) Pan Krab"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "text": "Ile osób znajduje się na boisku w jednej drużynie piłkarskiej podczas meczu?",
+        "options": [
+            "A) 9",
+            "B) 10",
+            "C) 11",
+            "D) 12"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "text": "Który kraj wygrał Mistrzostwa Świata w 2022 roku?",
+        "options": [
+            "A) Francja",
+            "B) Argentyna",
+            "C) Brazylia",
+            "D) Niemcy"
+        ],
+        "correct_answer": "B"
+    }
+]
